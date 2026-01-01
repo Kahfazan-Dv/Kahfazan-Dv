@@ -1,4 +1,4 @@
-<h1 align="center">Hi Gyus , I'm Mohammad Ameen Kahfazan</h1>
+<h1 align="center">Hi Guys , I'm Mohammad Ameen Kahfazan</h1>
 <h3 align="center">Programmer & Computer professional & Technology Enthusiast</h3>
 
 <p align="center">
