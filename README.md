@@ -31,7 +31,7 @@ Building modern, clean, and user-focused digital experiences.
 
 ---
 
-## 🌐 Languages & Frameworks
+## 🌐 Languages & Frameworks 
 ### Front-End :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -59,15 +59,15 @@ Building modern, clean, and user-focused digital experiences.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats :
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kahfazan-Dv&theme=default)
 
 ---
 
 ## 📫 Connect With Me
-- Portfolio: [Your Portfolio Link]
-- Email: Kahfazan.dv@gmail.com  
-- GitHub: https://github.com/Kahfazan-Dv
-- Whatsapp: +963947278088
-- Instagram: https://instagram.com/aboyaser.dv
+- Portfolio : Soon
+- Email : Kahfazan.dv@gmail.com  
+- GitHub : https://github.com/Kahfazan-Dv
+- Whatsapp : +963947278088
+- Instagram : https://instagram.com/aboyaser.dv
